@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - 我的全新 Hugo 网站</title>
+        <link>https://hhtblog.github.io/posts/</link>
+        <description>所有文章 | 我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1932617892@qq.com (何海涛)</managingEditor>
+            <webMaster>1932617892@qq.com (何海涛)</webMaster><lastBuildDate>Mon, 18 Jul 2022 10:55:04 &#43;0800</lastBuildDate><atom:link href="https://hhtblog.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Firstblog</title>
+    <link>https://hhtblog.github.io/firstblog/</link>
+    <pubDate>Mon, 18 Jul 2022 10:55:04 &#43;0800</pubDate><author>1932617892@qq.com (何海涛)</author><guid>https://hhtblog.github.io/firstblog/</guid>
+    <description><![CDATA[##firstblog]]></description>
+</item>
+</channel>
+</rss>
